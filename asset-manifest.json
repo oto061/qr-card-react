@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qr-card-react/static/css/main.6aecdef9.css",
+    "main.js": "/qr-card-react/static/js/main.7090d1f0.js",
+    "index.html": "/qr-card-react/index.html",
+    "main.6aecdef9.css.map": "/qr-card-react/static/css/main.6aecdef9.css.map",
+    "main.7090d1f0.js.map": "/qr-card-react/static/js/main.7090d1f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aecdef9.css",
+    "static/js/main.7090d1f0.js"
+  ]
+}
